@@ -160,7 +160,7 @@ const Login = () => {
                   </div>
                   <div className="form-group">
                     <Input
-                      type="text"
+                      type="password"
                       placeholder="Password"
                       className="form-control"
                       id="password"
