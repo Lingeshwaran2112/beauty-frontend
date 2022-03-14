@@ -203,13 +203,7 @@ const Login = () => {
                       <Para>New Here? Create Account</Para>
                     </Link>
                   </div>
-                  <div style={{ lineHeight: "3px", color: "grey" }}>
-                    <p>Fot Testing Purpose</p>
-                    
-                    <p>
-                      <b>Admin</b>: abc123@gmail.com <b>Password</b>:Abc123@
-                    </p>
-                  </div>
+                 
                 </Form>
               );
             }}
